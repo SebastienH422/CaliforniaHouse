@@ -5,3 +5,7 @@
  Ce projet, à but didactique, a été mené en suivant chaque étape décrite dans le livre et en explorant différentes options, soit pour améliorer les performances, soit pour pallier à quelques incompatibilités de version. 
 
 
+##### Dépendances
+- Matplotlib
+- Pandas
+- Scikit-learn et ses dépendances (notamment numpy)
