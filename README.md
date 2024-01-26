@@ -6,6 +6,7 @@
 
 
 ##### Dépendances
-- Matplotlib
-- Pandas
-- Scikit-learn et ses dépendances (notamment numpy)
+- numpy
+- matplotlib
+- pandas
+- sklearn
